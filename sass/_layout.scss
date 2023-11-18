@@ -1,0 +1,60 @@
+.intro {
+    // height: 60vh;
+}
+
+.main {
+    margin: 0 15rem;
+}
+
+.intro {
+    margin: 2.5rem 0 0 0;
+    padding: 3rem 0 6rem;
+}
+
+.review {
+    // padding: 3rem 0;
+    margin: 5rem 0 10rem 0;
+    // border-bottom: var(--line);
+}
+
+.method {
+    border-top: var(--line);
+    // background-image: linear-gradient(to right bottom,
+    //                                     var(--color-primary),
+    //                                     var(--color-primary-1));
+
+    margin: 0 auto;
+    padding: 7rem 0 10rem 0;
+    position: relative;
+}
+
+.scheme {
+    padding: 7rem 0 8rem 0;
+
+    border-bottom: var(--line);
+}
+
+.main {
+    padding: 2rem 0 8rem 0;
+}
+
+.example {
+    box-shadow: 0 2px 5px 2px rgba(0,0,0,0.4);
+    padding: 3rem 7rem;
+    margin: 5rem 0;
+    border-radius: 1rem;
+}
+
+// .conclusion {
+//     height: 100vh;
+//     background-color: gray;
+//     color: #fff;
+//     border-bottom: var(--line);
+//     border-color: var(--color-primary);
+// }
+
+.credit {
+    background-color: var(--color-grey-dark-1);
+    height: 70vh;
+    margin: 4rem 0 0 0;
+}
